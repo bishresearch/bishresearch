@@ -1,8 +1,10 @@
 
 <h1 align="center">
  <p>Hi there, Welcome to my professional space!</p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=36&center=true&vCenter=true&lines=I'm+Biswajit+Sarkar👋." alt="Typing SVG" /></a>
-</h1>
+ <h1 align="center"> Hello there! I am Biswajit Sarker </h1>
+<h3 align="center"> I'm a Mathematics undergraduate with great interest in Machine Learning and Data Analysis </h3>
+<br/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
 
