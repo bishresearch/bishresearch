@@ -1,7 +1,7 @@
 
 <h1 align="center">
  <p>Hi there, Welcome to my professional space!</p>
- <h1 align="center"> Hello there! I am Biswajit Sarker </h1>
+ <h1 align="center"> I'm Biswajit Sarker </h1>
 <h3 align="center"> I'm a Mathematics undergraduate with great interest in Machine Learning and Data Analysis </h3>
 <br/>
 
