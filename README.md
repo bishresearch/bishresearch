@@ -2,15 +2,14 @@
 <h1 align="center">
  <p>Hi there, Welcome to my professional space!</p>
  <h1 align="center"> I'm Biswajit Sarker </h1>
-<h3 align="center"> I'm a Mathematics undergraduate with great interest in Machine Learning and Data Analysis </h3>
 <br/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
 
-<h3 align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom">A Passionate Machine Learning & Data Science Enthusiast 
-</h3>
+<h2 align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom">I'm a Mathematics undergraduate with great interest in Machine Learning and Data Analysis 
+</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <div align="left">
  Hi, I’m Biswajit Sarker, a passionate Machine Learning and Data Science enthusiast with a strong foundation in Mathematics. I also specialize in Local SEO, where I help businesses optimize their online presence through tailored, data-driven SEO strategies. With expertise in Python programming, I am currently expanding my knowledge in Deep Learning and Generative AI, focusing on implementing advanced techniques to solve complex, real-world challenges. Whether you're seeking insights into machine learning models or looking to enhance your business's local visibility, I’m here to provide impactful solutions. Let's connect!
