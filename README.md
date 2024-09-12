@@ -5,7 +5,7 @@
 <br/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishresearch&label=Profile%20views&color=0e75b6&style=flat" alt="bishresearch" /> </p>
 
 <h2 align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom">I'm a Mathematics undergraduate with great interest in Machine Learning and Data Science 
