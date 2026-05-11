@@ -69,28 +69,6 @@
 
 
 
-Proudly created with GPRM ( https://gprm.itsvg.in ) 
-<br/>
-<div align="left">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tahsin005/tahsin005/blob/main/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Tahsin005/tahsin005/blob/main/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/svg/github-contribution-grid-snake.svg">
-</picture>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif"><br><br>
-<br /> 
-
-
-
-
-<div align="left">
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> Github Stats 🏅
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishresearch&show_icons=true&locale=en&layout=compact&theme=dark" alt="bishresearch" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bishresearch&show_icons=true&locale=en&theme=dark" alt="bishresearch" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishresearch&theme=dark" alt="bishresearch" /></p>
-
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
 
